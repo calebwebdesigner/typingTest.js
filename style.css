@@ -10,7 +10,7 @@ body {
 }
 .flex-container {
     display: grid;
-    grid-template-columns: 25% auto 25%;
+    grid-template-columns: 23% auto 23%;
 }
 #clock {
     float: left;
