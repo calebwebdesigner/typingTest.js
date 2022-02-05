@@ -1,4 +1,3 @@
-/*jshint esversion: 10*/
 /*
 made by: https://github.com/calebwebdesigner
 repo: https://github.com/calebwebdesigner/typingTest.js
