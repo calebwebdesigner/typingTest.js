@@ -5,4 +5,4 @@ Open the index.html file, and begin typing. The wordlist was created from the ro
 
 The timer and clock are intentionally hard to see so as not to distract you while you type.
 
-![image]() 
+![image](https://github.com/calebwebdesigner/typingTest.js/blob/main/screenshot.png) 
