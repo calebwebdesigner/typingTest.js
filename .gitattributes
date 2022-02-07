@@ -1,2 +1,2 @@
 *.html linguist-language=HTML
-*.css linguist-detectable
+*.css linguist-language=CSS
