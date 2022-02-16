@@ -1,4 +1,5 @@
 /*
+copyright © 2022, calebwebdesigner
 made by: https://github.com/calebwebdesigner
 repo: https://github.com/calebwebdesigner/typingTest.js
 */
