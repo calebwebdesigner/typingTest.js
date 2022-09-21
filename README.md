@@ -8,4 +8,4 @@ The wordlist was taken from a part of the infamous rockyou.txt password dump, an
 
 ![image](https://github.com/calebwebdesigner/typingTest.js/blob/main/ignore/v1-screenshots/image.png) 
 
-Copyright © 2019, calebwebdesigner
+Copyright © 2019, calebwebdesigner.
