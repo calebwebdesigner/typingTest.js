@@ -6,6 +6,6 @@ Just open the index.html file, and then begin typing.
 
 The wordlist was taken from a part of the infamous rockyou.txt password dump, and the timer and clock are intentionally somewhat hard to see so as not to distract you while you type.
 
-![image](https://github.com/calebwebdesigner/typingTest.js/blob/main/image.png) 
+![image](https://github.com/calebwebdesigner/typingTest.js/blob/main/ignore/v1-screenshots/image.png) 
 
 Copyright © 2019, calebwebdesigner
